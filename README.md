@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amr Habib
-- 👀 I’m interested in Software Quality Control Engineering
+- 👀 I’m interested in Software Quality Assurance Engineering
 - 🌱 I’m currently learning Automation
 - 💞️ I’m looking to collaborate on New project
 - 📫 How to reach me amrhabib12341@gmail.com
